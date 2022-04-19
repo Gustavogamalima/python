@@ -1,0 +1,7 @@
+Ana;20
+Maria;60
+Caio;15
+Cláudio Mendonça;18
+Maria D'Ajuda;60
+Renata Soares;13
+Gustavo Gama Lima;25
